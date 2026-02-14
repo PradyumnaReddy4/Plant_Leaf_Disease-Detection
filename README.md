@@ -1,1 +1,1 @@
-#plant leaf disease dectiction system using 3 layer CNN
+# plant leaf disease dectiction system using 3 layer CNN
